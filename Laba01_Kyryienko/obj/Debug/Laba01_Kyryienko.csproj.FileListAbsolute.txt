@@ -1,0 +1,9 @@
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\bin\Debug\Laba01_Kyryienko.exe.config
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\bin\Debug\Laba01_Kyryienko.exe
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\bin\Debug\Laba01_Kyryienko.pdb
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\obj\Debug\Laba01_Kyryienko.Form1.resources
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\obj\Debug\Laba01_Kyryienko.Properties.Resources.resources
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\obj\Debug\Laba01_Kyryienko.csproj.GenerateResource.cache
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\obj\Debug\Laba01_Kyryienko.csproj.CoreCompileInputs.cache
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\obj\Debug\Laba01_Kyryienko.exe
+C:\Users\Дарий\Desktop\учеба НАУ\навроцкий\Laba01_Kyryienko\Laba01_Kyryienko\obj\Debug\Laba01_Kyryienko.pdb
